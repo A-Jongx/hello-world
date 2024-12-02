@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Doto:wght@100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Wallpoet&display=swap');
+
+* {margin: 0;
+padding: 0; }
+
+header {
+    font-family: "Wallpoet", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+body {background-color:thistle;}
+body h2 {color:white;}
+
+nav ul {padding: 2em;
+    border: 2px solid purple;}
+    nav {width: 50vw;}
+
+h1 {margin: 2em; padding: 1em;}
+
+a {margin: 1em ; padding: 1em;}
+
+body {margin: 2em;
+padding: 1em;
+}
