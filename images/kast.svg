@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700.69" height="631.87" viewBox="0 0 700.69 631.87">
+  <g id="vak_kleine_vaas">
+    <path d="M3.16,3.48v278.88h173.16V3.48H3.16ZM170.56,276.59H8.93V9.25h161.62v267.34Z" fill="#8b5e3c"/>
+    <path d="M8.93,9.25v267.34h161.62V9.25H8.93ZM165.17,271.06H14.32V14.78h150.85v256.28Z" fill="#c49a6c"/>
+    <rect x="3.16" y="3.48" width="173.16" height="278.88" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="4"/>
+  </g>
+  <g id="vak_grote_vaas">
+    <path d="M3.16,282.36v346.94h173.16v-346.94H3.16ZM170.56,623.47H8.93v-335.35h161.62v335.35Z" fill="#8b5e3c"/>
+    <path d="M8.93,288.12v335.35h161.62v-335.35H8.93ZM165.17,617.83H14.32v-324.15h150.85v324.15Z" fill="#c49a6c"/>
+    <rect x="3.16" y="282.36" width="173.16" height="346.94" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="4"/>
+  </g>
+  <g id="vak_tv">
+    <path d="M176.32,282.98v173.16h173.16v-173.16h-173.16ZM343.72,450.38h-161.62v-162.22h161.62v162.22Z" fill="#8b5e3c"/>
+    <path d="M182.1,288.15v162.52h161.6v-162.52h-161.6ZM338.32,445.26h-150.83v-152.26h150.83v152.26Z" fill="#c49a6c"/>
+    <rect x="176.32" y="282.98" width="173.16" height="173.16" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="4"/>
+  </g>
+  <g id="vak_toverdrank">
+    <path d="M176.35,3.2v173.16h347.57V3.2H176.35ZM518.15,170.6H182.11V8.97h336.04v161.62Z" fill="#8b5e3c"/>
+    <path d="M182.09,8.97v161.62h336.06V8.97H182.09ZM512.57,165.21H187.67V14.36h324.9v150.85Z" fill="#c49a6c"/>
+    <rect x="263.55" y="-83.7" width="173.16" height="347.57" transform="translate(440.22 -260.05) rotate(90)" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="4"/>
+  </g>
+  <g id="vak_konijn">
+    <path d="M176.27,455.94v173.16h173.16v-173.16h-173.16ZM343.66,623.33h-161.62v-162.22h161.62v162.22Z" fill="#8b5e3c"/>
+    <path d="M182.05,461.11v162.22h161.6v-162.22h-161.6ZM338.27,617.93h-150.83v-151.98h150.83v151.98Z" fill="#c49a6c"/>
+    <rect x="176.27" y="455.94" width="173.16" height="173.16" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="4"/>
+  </g>
+  <g id="vak_plant">
+    <path d="M523.85,282.78v173.16h173.16v-173.16h-173.16ZM691.24,450.17h-161.62v-162.22h161.62v162.22Z" fill="#8b5e3c"/>
+    <path d="M529.63,287.72v162.75h161.6v-162.75h-161.6ZM685.84,445.05h-150.83v-152.47h150.83v152.47Z" fill="#c49a6c"/>
+    <rect x="523.85" y="282.78" width="173.16" height="173.16" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="4"/>
+  </g>
+  <g id="vak_boeken">
+    <path d="M349.43,455.94v173.16h347.57v-173.16h-347.57ZM691.24,623.33h-336.04v-161.62h336.04v161.62Z" fill="#8b5e3c"/>
+    <path d="M355.2,461.71v161.62h336.06v-161.62h-336.06ZM685.68,617.95h-324.9v-150.85h324.9v150.85Z" fill="#c49a6c"/>
+    <rect x="436.64" y="368.73" width="173.16" height="347.57" transform="translate(1065.74 19.3) rotate(90)" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="4"/>
+  </g>
+  <g id="vak_gat_vaas">
+    <path d="M523.94,3.5v173.16h173.16V3.5h-173.16ZM691.33,170.9h-161.62V8.67h161.62v162.22Z" fill="#754c29"/>
+    <path d="M529.71,8.67v162.22h161.6V8.67h-161.6ZM685.93,165.49h-150.83V13.52h150.83v151.98Z" fill="#c49a6c"/>
+    <rect x="523.92" y="3.5" width="173.16" height="173.16" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="4"/>
+  </g>
+</svg>
